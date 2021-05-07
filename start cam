@@ -1,0 +1,1 @@
+python3 /home/pi/streameye/extras/raspimjpeg.py -w 640 -h 480 -r 30 | streameye &

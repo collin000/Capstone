@@ -1,0 +1,1 @@
+raspimjpeg.py -w 640 -h 480 -r 15 | streameye
